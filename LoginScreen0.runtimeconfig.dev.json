@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\clesk\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\clesk\\.nuget\\packages"
+    ]
+  }
+}
